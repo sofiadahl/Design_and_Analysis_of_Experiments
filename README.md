@@ -6,5 +6,3 @@ also as a general intro /recap for others.
 The scope is not to give an in-depth overview of the topic or pandas, but to introduce some of the theory and also involve the student to 
 reflect on why some things need to be taken into account when planning data collection.
 
-Comments and suggestions are welcome!
-
