@@ -7,3 +7,4 @@ The scope is not to give an in-depth overview of the topic or the use of panda d
 student to reflect on why some things need to be taken into account when planning data collection. It should be possible to follow and do most of the
 "think-and-do" try outs without particular skills in python or mathematics.
 
+Thanks to Prithvi Kantan for proofreading, helpful comments and suggestions. 
