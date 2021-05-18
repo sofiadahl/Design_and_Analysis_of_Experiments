@@ -7,4 +7,6 @@ The scope is not to give an in-depth overview of the topic or the use of panda d
 student to reflect on why some things need to be taken into account when planning data collection. It should be possible to follow and do most of the
 "think-and-do" try outs without particular skills in python or mathematics.
 
+For a brief introduction to Python please check out software-carpentry https://software-carpentry.org/lessons/ and the quick intro to pandas, https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html?highlight=randint.
+
 Thanks to Prithvi Kantan for proofreading, helpful comments and suggestions. 
