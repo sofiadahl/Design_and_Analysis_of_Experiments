@@ -2,7 +2,7 @@
 Jupyter notebooks with an introduction to the Design and Analysis of Experiments including simple python (Pandas) exercises. 
 Authored with some reference to Field and Hole (2003)  "How to design and report experiments", Sage publishing but expanding somewhat beyond the topic.
 The material is produced to be used for the BSc course for Medialogy students at Aalborg University, but I hope it will be useful
-also as a general intro /recap for others. 
+also as a general intro /recap for others. It is also possible to run the code without specific installation using colab https://colab.research.google.com/github/sofiadahl/Design_and_Analysis_of_Experiments/blob/main/ 
 
 The aim is to
 
