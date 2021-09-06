@@ -11,6 +11,7 @@ The aim is to
 
 The topic is covered in the following notebooks:
 
+    DAE 0 START HERE
     DAE 1 Variables
     DAE 2 Designing Experiments
     DAE 3 Measuring Validity and Reliability
